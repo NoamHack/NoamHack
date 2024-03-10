@@ -3,3 +3,6 @@
 - אחד מכותבי ה-Standardize" extension" שמטרתו להפוך את הקוד לקריא יותר ביעילות רבה הרבה יותר 🤖
 - מתכנת במגוון שפות שונות :octocat:
 - Jr Penetration tester :fishing_pole_and_fish:
+
+## חלק מהפרוייקטים שלי:
+
