@@ -4,5 +4,5 @@
   אחד מפותרי חידת אמן השנתית של חיל המודיעין :smiling_imp:
 
   מתכנת במגוון שפות שונות :octocat:
-   
-  Jr Penetration tester :fishing_pole_and_fish:
+  
+  בודק חדירות צעיר 🎣 Jr penetration tester 
