@@ -1,5 +1,5 @@
 # :feelsgood: נועם לוי - סטודנט להנדסת תוכנה :feelsgood:
-  אחד מכותבי ה-Standardize" extension" שמטרתו להפוך את הקוד לקריא יותר ביעילות רבה הרבה יותר 🤖
+  אחד מכותבי ה-Standardize" extension" שמטרתו להפוך את הקוד לקריא יותר ביעילות רבה 🤖
 
   אחד מפותרי חידת אמן השנתית של חיל המודיעין :smiling_imp:
 
