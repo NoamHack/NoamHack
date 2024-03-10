@@ -6,5 +6,4 @@
 - מתכנת במגוון שפות שונות :octocat:
 
 
-  Jr Penetration tester :fishing_pole_and_fish:
 
