@@ -5,4 +5,5 @@
 
   מתכנת במגוון שפות שונות :octocat:
   
-  בודק חדירות צעיר 🎣 Jr penetration tester 
+  Fullstack Developer
+
